@@ -92,5 +92,4 @@ pip install yfinance matplotlib pandas statsmodels numpy prophet scikit-learn
 ## Author
 
 **Mohammad Osama Khan**
-MSc Financial Economics — Otto-von-Guericke University Magdeburg
 [LinkedIn](https://www.linkedin.com/in/mohammad-osama-khan-93233a191) | mohammad2.khan@st.ovgu.de
