@@ -64,8 +64,14 @@ nvidia-time-series-forecasting/
 ## Installation
 
 ```bash
-pip install yfinance matplotlib pandas statsmodels numpy prophet scikit-learn
+pip install -r requirements.txt
 ```
+
+---
+
+## License
+
+This project is licensed under the MIT License.
 
 ---
 
