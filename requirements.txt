@@ -1,0 +1,7 @@
+yfinance==0.2.54
+pandas==2.2.3
+numpy==2.2.1
+matplotlib==3.10.0
+statsmodels==0.14.4
+prophet==1.1.6
+scikit-learn==1.6.1
